@@ -45,6 +45,16 @@
 - [cleaner-codemods](https://github.com/peoplenarthax/cleaner-codemods) Simple codemods to destructure prop types
 - [apitsummit-codemods](https://github.com/perjansson/aptisummit-codemods) 
 - [dsgkirkby/js-codemods](https://github.com/dsgkirkby/js-codemods) Wrap switch statements in a code block
+- [EDITD/codemods](https://github.com/EDITD/codemods) Radium to Glamour codemod
+- [bradencanderson/codemods](https://github.com/bradencanderson/codemods)
+- [peakon/codemods](https://github.com/peakon/codemods) i18n Context, Locale, No immutable class codemods
+- [knoopx/codemods](https://github.com/knoopx/codemods) 
+- [autobots](https://github.com/geekjuice/autobots) Codemods for great good!
+- [ce-codemods](https://github.com/dogoku/ce-codemods) Codemods for custom elements
+- [bseber/codemods](codemods for jasmine refactoring) Codemods for Jasmine refactoring
+- [strudel-codemod](https://github.com/strudeljs/strudel-codemod) Strudel codemod scripts
+- [co-to-async](https://github.com/albinekb/co-to-async) 🦄 Take the step from co.wrap to async/await automagically
+- [DrewML/codemods](https://github.com/DrewML/codemods) 
 
 ## ESNext
 - [5to6](https://github.com/jamischarles/5to6) A collection of codemods that allow you to transform your js code from ES5 to ES6.
@@ -52,6 +62,7 @@
 - [codemod-get-to-optional-member-expression](https://github.com/eschaefer/codemod-get-to-optional-member-expressions) Change Lodash `get` functions to ES7 optional member expressions
 - [idx-to-optional-chaining](https://github.com/cdlewis/idx-to-optional-chaining) JSCodeShift codemod that transforms usage of idx to the draft optional chaining standard.
 - [generator2async-codemod](https://github.com/shimohq/generator2async-codemod)
+- [lebab-as-babel-plugins](https://github.com/rajatvijay/lebab-as-babel-plugins) Codemod to transform ES5 code to ES6/7 and uses babel plugins
 
 ## Typescript
 - [ts-codemod](https://github.com/tusharmath/ts-codemod) Typescript based codemods
@@ -86,6 +97,7 @@
 - [react-native-paper-codemod](https://github.com/callstack/react-native-paper-codemod)
 - [react-codemod-pure-component-to-class](https://github.com/orzarchi/react-codemod-pure-component-to-class) A react codemod to transform stateless/pure/functional components to class components.
 - [denvned/codemod](https://github.com/denvned/codemod) Relay Mutation - didResolveProps
+- [mukeshsoni/codemods](https://github.com/mukeshsoni/codemods) Adds a data-test-id attribute to all jsx html elements
 
 
 
@@ -100,6 +112,7 @@
 - [legacy-tests-codemod](https://github.com/patocallaghan/legacy-tests-codemod) A collection of codemod's for legacy-tests-codemod.
 - [ember-action-codemods](https://github.com/lennyburdette/ember-action-codemods) Codemods for converting uses of action to the {{on}} modifier
 - [ember-k-codemod](https://github.com/cibernox/ember-k-codemod) Removes all usages of Ember.K
+- [ember-computed-decorators-codemod](https://github.com/bwittenbrook3/ember-computed-decorators-codemod) Codemod to update ember-computed-decorators to ember-decorators
 
 ### Preact.js
 - [preact-codemod](https://github.com/vutran/preact-codemod) 🍧 Shave some bytes by using Preact.
@@ -115,6 +128,7 @@
 - [optional-chaining-codemod](https://github.com/villesau/optional-chaining-codemod) Codemod to migrate from Lodash get and logical and expressions to optional chaining 
 - [js-transforms](https://github.com/gunar/js-transforms) Codemod to replace lodash for lodash/fp
 - [modular-lodash-codemod](https://github.com/dgrijuela/modular-lodash-codemod) Makes all your lodash imports modular.
+- [kevinbarabash/codemods](https://github.com/kevinbarabash/codemods) Lodash/Underscore to native
 
 ### Mocha
 - [mocha-to-jest-codemod](https://github.com/paularmstrong/mocha-to-jest-codemod) Convert Mochan TDD with Chai assert tests to Jest
@@ -137,6 +151,10 @@ This is the list of codemods used by a particular organization for their code tr
 - [yapp-codemods](https://github.com/yappbox/yapp-codemods) Yapp's codemods
 - [civicsource/codemod](https://github.com/civicsource/codemod/) 
 
+## Editor Plugins
+- [atom-codemod](https://github.com/rosswarren/atom-codemod) Atom plugin for running codemods
+- [vscodemod](https://github.com/mikaelbr/vscodemod) VSCode extension for doing codemod on selected text
+
 ## Misc
 - [antd-codemod](https://github.com/ant-design/antd-codemod) antd codemod scripts
 - [flow-codemod](https://github.com/flowtype/flow-codemod) jscodeshift-powered mithril@0.2.x to mithril@1.x transformations 
@@ -147,7 +165,6 @@ This is the list of codemods used by a particular organization for their code tr
 - [closure-codemod](https://github.com/toshi-toma/closure-codemod) Closure codemod scripts
 - [titanium-codemods](https://github.com/ewanharris/titanium-codemods) Codemod scripts for Titanium Applications
 - [next-codemod](https://github.com/zeit/next-codemod) codemod transformations to help upgrade Next.js codebases
-- [vscodemod](https://github.com/mikaelbr/vscodemod) VSCode extension for doing codemod on selected text
 - [date-fns-upgrade-codemod](https://github.com/date-fns/date-fns-upgrade-codemod) Code mods for upgrading date-fns versions
 - [graphql2ts](https://github.com/sibelius/graphql2ts) Transform .graphql to graphql-js typescript
 - [gen-codemod](https://github.com/noahsug/gen-codemod) Generate codemods by specifying your starting -> desired JavaScript.
@@ -167,6 +184,9 @@ This is the list of codemods used by a particular organization for their code tr
 - [direct-import-codemod](https://github.com/limpbrains/direct-import-codemod) Use direct imports to save JS bundle size
 - [d3-upgrade-codemods](https://github.com/expobrain/d3-upgrade-codemods) Codemods to upgrade d3 from version 3.x
 - [generator-jscodeshif](https://github.com/scalvert/generator-jscodeshift) A yeoman generator for a jscodeshift codemod.
+- [tds-codemod](https://github.com/telus/tds-codemod) TELUS Design System
+- [gsa-codeshift](https://github.com/bjoernricks/gsa-codeshift) GSA codemod scripts
+- [bottender-codemod](https://github.com/bottenderjs/bottender-codemod) Bottender codemod scripts
 
 
 
