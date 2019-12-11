@@ -4,6 +4,17 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
+*Please read the [contribution guidelines](contributing.md) before contributing.*
+
+
+## Table of Contents
+
+- [Javascript](#javascript)
+- [ESNext](#esnext)
+- [Typescript](#typescript)
+- [Frameworks](#frameworks)
+- [Misc](#misc)
+
 ## Javascript
 - [js-codemod](https://github.com/cpojer/js-codemod/) - Codemod scripts to transform code to next generation JS.
 - [js-transforms](https://github.com/jhgg/js-transforms) - Some documented codemod experiments to help you learn.
