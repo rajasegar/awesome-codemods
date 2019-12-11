@@ -70,6 +70,7 @@
 - [strudel-codemod](https://github.com/strudeljs/strudel-codemod) Strudel codemod scripts
 - [co-to-async](https://github.com/albinekb/co-to-async) 🦄 Take the step from co.wrap to async/await automagically
 - [DrewML/codemods](https://github.com/DrewML/codemods) 
+- [skratchdot-codemods](https://github.com/skratchdot/skratchdot-codemods) a collection of utility codemods
 
 ## ESNext
 - [5to6](https://github.com/jamischarles/5to6) A collection of codemods that allow you to transform your js code from ES5 to ES6.
@@ -88,6 +89,7 @@
 - [js-to-typescript-codemod](https://github.com/mattlewis92/js-to-typescript-codemod) A simple codemod for helping migrate from babel to typescript. Converts default imports to wildcards.
 - [riceburn](https://github.com/kenotron/riceburn) A Typescript, JSON, and text file Code Mod Utility
 - [flowshift](https://github.com/albertywu/flowshift) flow to typescript codemods
+- [ts-codemod-scripts](https://github.com/buildo/ts-codemod-scripts) collection of basic JS/React codemod scripts to prepare for TS on a codebase
 
 
 ## Frameworks
@@ -113,7 +115,10 @@
 - [react-codemod-pure-component-to-class](https://github.com/orzarchi/react-codemod-pure-component-to-class) A react codemod to transform stateless/pure/functional components to class components.
 - [denvned/codemod](https://github.com/denvned/codemod) Relay Mutation - didResolveProps
 - [mukeshsoni/codemods](https://github.com/mukeshsoni/codemods) Adds a data-test-id attribute to all jsx html elements
-
+- [js-react-codemods](https://github.com/nicholas-b-carter/js-react-codemods) A boilerplate of JS 5/6/7 transforms for react/redux/js/etc
+- [react-with-hooks-removal-codemod](https://github.com/polizz/react-with-hooks-removal-codemod) Remove the react-with-hooks library code when React 16.7.0 is released
+- [react-native-fix-inline-styles](https://github.com/ignacioola/react-native-fix-inline-styles) Fix inline styles in react native components
+- [react-style-px-suffix-codemod](https://github.com/conorhastings/react-style-px-suffix-codemod) append px to shorthand values in style objects in react in prep for react 15 warning
 
 
 ### Ember.js
@@ -128,12 +133,17 @@
 - [ember-action-codemods](https://github.com/lennyburdette/ember-action-codemods) Codemods for converting uses of action to the {{on}} modifier
 - [ember-k-codemod](https://github.com/cibernox/ember-k-codemod) Removes all usages of Ember.K
 - [ember-computed-decorators-codemod](https://github.com/bwittenbrook3/ember-computed-decorators-codemod) Codemod to update ember-computed-decorators to ember-decorators
+- [ember-cli-mirage-faker-codemod](https://github.com/caseywatts/ember-cli-mirage-faker-codemod) 
+- [ember-component-jquery](https://github.com/patocallaghan/ember-component-jquery) A codemod for migrating Ember Component code from `this.$()` to `$(this.element)`
 
 ### Preact.js
 - [preact-codemod](https://github.com/vutran/preact-codemod) 🍧 Shave some bytes by using Preact.
 
 ### Vue.js
 - [vue-codemods](https://github.com/SergioCrisostomo/vue-codemods) Collection of codemod scripts that help update and refactor Vue and JavaScript files.
+
+### Angular.js
+- [angular-codemods](https://github.com/arthurflachs/angular-codemods) Codemods for refactoring legacy angular applications
 
 ## Libraries
 
@@ -169,6 +179,7 @@ This is the list of codemods used by a particular organization for their code tr
 ## Editor Plugins
 - [atom-codemod](https://github.com/rosswarren/atom-codemod) Atom plugin for running codemods
 - [vscodemod](https://github.com/mikaelbr/vscodemod) VSCode extension for doing codemod on selected text
+- [nmn/atom-codemod](https://github.com/nmn/atom-codemod) simple commands to apply specific Babel plugins/codemods on your code
 
 ## Misc
 - [antd-codemod](https://github.com/ant-design/antd-codemod) antd codemod scripts
