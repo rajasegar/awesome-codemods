@@ -13,7 +13,11 @@
 - [ESNext](#esnext)
 - [Typescript](#typescript)
 - [Frameworks](#frameworks)
+- [Libraries](#libraries)
+- [Organization specific Codemods](#organization-specific-codemods)
+- [Editor Plugins](#editor-plugins)
 - [Misc](#misc)
+- [Awesome Lists](#awesome-lists)
 
 ## Javascript
 - [js-codemod](https://github.com/cpojer/js-codemod/) - Codemod scripts to transform code to next generation JS.
@@ -145,10 +149,10 @@
 - [mocha-to-jest-codemod](https://github.com/paularmstrong/mocha-to-jest-codemod) Convert Mochan TDD with Chai assert tests to Jest
 - [mocha2ava-codemod](https://github.com/shimohq/mocha2ava-codemod) - A tranformer for migrating tests from Mocha to Ava.
 
-## AVA
+### AVA
 - [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) codeshift wrapper to write smaller and better tests for your codemods using AVA
 
-## Styled Components
+### Styled Components
 - [styled-components-codemods](https://github.com/styled-components/styled-components-codemods) Automatic codemods to upgrade your styled-components code to newer versions.
 - [styled-components-v3-to-v4-codemod](https://github.com/RIP21/styled-components-v3-to-v4-codemod) Codemod to migrate deprecated .extend API in favor of only styled functions.
 
