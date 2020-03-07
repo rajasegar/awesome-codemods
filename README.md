@@ -27,48 +27,48 @@ Please read the [contribution guidelines](contributing.md) before contributing.
 - [rm-debugger](https://www.npmjs.com/package/rm-debugger) - Codemod for removing `debugger;`.
 - [AMD Transformer](https://bitbucket.org/atlassian/amd-codemod/src) - Converts JS into AMDified JS (by Atlassian).
 - [undecorate-codemod](https://github.com/tizmagik/undecorate-codemod) - Transformers experimental ESNext decorators syntax to simple currying.
-- [jest-codemods](https://github.com/skovhus/jest-codemods) Codemods for migrating to Jest .
-- [refactoring-codemods](https://github.com/jurassix/refactoring-codemods) Refactoring support for JavaScript via jscodeshift codemods.
-- [sinon-codemod](https://github.com/hurrymaplelad/sinon-codemod) Codemod scripts that update Sinon APIs .
-- [codemod-imports-sort](https://github.com/bfncs/codemod-imports-sort) Sort ES6 imports by type.
-- [JamieMason/codemods](https://github.com/JamieMason/codemods) A collection of transforms for use with JSCodeshift.
-- [eslint-transforms](https://github.com/eslint/eslint-transforms) Codemods for the ESLint ecosystem.
-- [js-codemods](https://github.com/yangshun/js-codemods) Some codemod scripts to transform code for good styling.
-- [class-props-codemod](https://github.com/zertosh/class-props-codemod) Transform old-style assigned static properties to class static properties.
-- [flow-comments-codemod](https://github.com/escaton/flow-comments-codemod) Convert flowtype syntax to valid JS.
-- [async-await-codemod](https://github.com/sgilroy/async-await-codemod) Codemod script for migrating promise-based functions to use async/await syntax.
-- [sort-class-members-codemod](https://github.com/pastelsky/sort-class-members-codemod) A codemod for automatically fixing issues reported by eslint-plugin-sort-class-members.
-- [relative-to-alias](https://github.com/s-yadav/relative-to-alias) 🛠️ A codemod to do large-scale refactor of your relative path imports to alias.
-- [transform-imports](https://github.com/suchipi/transform-imports) Tools that make it easy to codemod imports/requires in your JS.
-- [expect-js-to-assert](https://github.com/twada/expect-js-to-assert) A jscodeshift codemod that transforms from expect.js to Node assert.
+- [jest-codemods](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest .
+- [refactoring-codemods](https://github.com/jurassix/refactoring-codemods) - Refactoring support for JavaScript via jscodeshift codemods.
+- [sinon-codemod](https://github.com/hurrymaplelad/sinon-codemod) - Codemod scripts that update Sinon APIs .
+- [codemod-imports-sort](https://github.com/bfncs/codemod-imports-sort) - Sort ES6 imports by type.
+- [JamieMason/codemods](https://github.com/JamieMason/codemods) - A collection of transforms for use with JSCodeshift.
+- [eslint-transforms](https://github.com/eslint/eslint-transforms) - Codemods for the ESLint ecosystem.
+- [js-codemods](https://github.com/yangshun/js-codemods) - Some codemod scripts to transform code for good styling.
+- [class-props-codemod](https://github.com/zertosh/class-props-codemod) - Transform old-style assigned static properties to class static properties.
+- [flow-comments-codemod](https://github.com/escaton/flow-comments-codemod) - Convert flowtype syntax to valid JS.
+- [async-await-codemod](https://github.com/sgilroy/async-await-codemod) - Codemod script for migrating promise-based functions to use async/await syntax.
+- [sort-class-members-codemod](https://github.com/pastelsky/sort-class-members-codemod) - A codemod for automatically fixing issues reported by eslint-plugin-sort-class-members.
+- [relative-to-alias](https://github.com/s-yadav/relative-to-alias) - A codemod to do large-scale refactor of your relative path imports to alias.
+- [transform-imports](https://github.com/suchipi/transform-imports) - Tools that make it easy to codemod imports/requires in your JS.
+- [expect-js-to-assert](https://github.com/twada/expect-js-to-assert) - A jscodeshift codemod that transforms from expect.js to Node assert.
 - [optional-chaining-codemod](https://github.com/NullVoxPopuli/optional-chaining-codemod) 
-- [chai-to-assert](https://github.com/twada/chai-to-assert) A jscodeshift codemod that transforms from chai to Node assert.
-- [nikgraf/js-codemod](https://github.com/nikgraf/js-codemod) A collection of codemods.
-- [amd-to-commonjs-codemod](https://github.com/skratchdot/amd-to-commonjs-codemod) A codemod to transform amd style includes into commonjs includes.
-- [js-codemod-import-absolute](https://github.com/bluedaniel/js-codemod-import-absolute) Codemod to replace relative imports with absolute or custom paths.
+- [chai-to-assert](https://github.com/twada/chai-to-assert) - A jscodeshift codemod that transforms from chai to Node assert.
+- [nikgraf/js-codemod](https://github.com/nikgraf/js-codemod) - A collection of codemods.
+- [amd-to-commonjs-codemod](https://github.com/skratchdot/amd-to-commonjs-codemod) - A codemod to transform amd style includes into commonjs includes.
+- [js-codemod-import-absolute](https://github.com/bluedaniel/js-codemod-import-absolute) - Codemod to replace relative imports with absolute or custom paths.
 - [relekang/codemods](https://github.com/relekang/codemods) 
-- [jest-expect-codemod](https://github.com/devenbansod/jest-expect-codemod) CodeMods for migrating `chai.assert`, `chai.expect`, `assert` -based test assertions to jest's `expect` assertions.
-- [vasco3/cuadrante-codemods](https://github.com/vasco3/cuadrante-codemods) Converts ES6 imports to commonJS requires.
+- [jest-expect-codemod](https://github.com/devenbansod/jest-expect-codemod) - CodeMods for migrating `chai.assert`, `chai.expect`, `assert` -based test assertions to jest's `expect` assertions.
+- [vasco3/cuadrante-codemods](https://github.com/vasco3/cuadrante-codemods) - Converts ES6 imports to commonJS requires.
 - [immutablejs-eraser-codemod](https://github.com/mariosanchez/immutablejs-eraser-codemod) A codemod to rescue you from a Immutable.js abuse.
-- [underscore-to-native](https://github.com/zackargyle/codemods) Underscore to native codemods.
-- [chai-to-jasmine](https://github.com/AlexJuarez/chai-to-jasmine) A chai to jasmine codemod that includes additional transforms for jest migration.
-- [node-dep-codemod](https://github.com/joyeecheung/node-dep-codemod) A collection of JSCodeshift codemod scripts for migrating code that uses deprecated Node.js APIs.
-- [styletron/codemods](https://github.com/styletron/codemods) Codemods for styletron.
-- [rxjs-codemod](https://github.com/sergi/rxjs-codemod) codemod scripts to transform older RxJS code to RxJS5-compatible code.
-- [cleaner-codemods](https://github.com/peoplenarthax/cleaner-codemods) Simple codemods to destructure prop types.
+- [underscore-to-native](https://github.com/zackargyle/codemods) - Underscore to native codemods.
+- [chai-to-jasmine](https://github.com/AlexJuarez/chai-to-jasmine) - A chai to jasmine codemod that includes additional transforms for jest migration.
+- [node-dep-codemod](https://github.com/joyeecheung/node-dep-codemod) - A collection of JSCodeshift codemod scripts for migrating code that uses deprecated Node.js APIs.
+- [styletron/codemods](https://github.com/styletron/codemods) - Codemods for styletron.
+- [rxjs-codemod](https://github.com/sergi/rxjs-codemod) - Codemod scripts to transform older RxJS code to RxJS5-compatible code.
+- [cleaner-codemods](https://github.com/peoplenarthax/cleaner-codemods) - Simple codemods to destructure prop types.
 - [apitsummit-codemods](https://github.com/perjansson/aptisummit-codemods) 
-- [dsgkirkby/js-codemods](https://github.com/dsgkirkby/js-codemods) Wrap switch statements in a code block.
-- [EDITD/codemods](https://github.com/EDITD/codemods) Radium to Glamour codemod.
+- [dsgkirkby/js-codemods](https://github.com/dsgkirkby/js-codemods) - Wrap switch statements in a code block.
+- [EDITD/codemods](https://github.com/EDITD/codemods) - Radium to Glamour codemod.
 - [bradencanderson/codemods](https://github.com/bradencanderson/codemods)
-- [peakon/codemods](https://github.com/peakon/codemods) i18n Context, Locale, No immutable class codemods.
+- [peakon/codemods](https://github.com/peakon/codemods) - I18n Context, Locale, No immutable class codemods.
 - [knoopx/codemods](https://github.com/knoopx/codemods)
-- [autobots](https://github.com/geekjuice/autobots) Codemods for great good!.
-- [ce-codemods](https://github.com/dogoku/ce-codemods) Codemods for custom elements.
-- [bseber/codemods](codemods for jasmine refactoring) Codemods for Jasmine refactoring.
-- [strudel-codemod](https://github.com/strudeljs/strudel-codemod) Strudel codemod scripts.
-- [co-to-async](https://github.com/albinekb/co-to-async) 🦄 Take the step from co.wrap to async/await automagically.
+- [autobots](https://github.com/geekjuice/autobots) - Codemods for great good!.
+- [ce-codemods](https://github.com/dogoku/ce-codemods) - Codemods for custom elements.
+- [bseber/codemods](codemods for jasmine refactoring) - Codemods for Jasmine refactoring.
+- [strudel-codemod](https://github.com/strudeljs/strudel-codemod) - Strudel codemod scripts.
+- [co-to-async](https://github.com/albinekb/co-to-async) - Take the step from co.wrap to async/await automagically.
 - [DrewML/codemods](https://github.com/DrewML/codemods) 
-- [skratchdot-codemods](https://github.com/skratchdot/skratchdot-codemods) a collection of utility codemods.
+- [skratchdot-codemods](https://github.com/skratchdot/skratchdot-codemods) - A collection of utility codemods.
 
 ## ESNext
 - [5to6](https://github.com/jamischarles/5to6) A collection of codemods that allow you to transform your js code from ES5 to ES6.
