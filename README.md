@@ -49,7 +49,7 @@ Please read the [contribution guidelines](contributing.md) before contributing.
 - [relekang/codemods](https://github.com/relekang/codemods) 
 - [jest-expect-codemod](https://github.com/devenbansod/jest-expect-codemod) - CodeMods for migrating `chai.assert`, `chai.expect`, `assert` -based test assertions to jest's `expect` assertions.
 - [vasco3/cuadrante-codemods](https://github.com/vasco3/cuadrante-codemods) - Converts ES6 imports to commonJS requires.
-- [immutablejs-eraser-codemod](https://github.com/mariosanchez/immutablejs-eraser-codemod) A codemod to rescue you from a Immutable.js abuse.
+- [immutablejs-eraser-codemod](https://github.com/mariosanchez/immutablejs-eraser-codemod) - A codemod to rescue you from a Immutable.js abuse.
 - [underscore-to-native](https://github.com/zackargyle/codemods) - Underscore to native codemods.
 - [chai-to-jasmine](https://github.com/AlexJuarez/chai-to-jasmine) - A chai to jasmine codemod that includes additional transforms for jest migration.
 - [node-dep-codemod](https://github.com/joyeecheung/node-dep-codemod) - A collection of JSCodeshift codemod scripts for migrating code that uses deprecated Node.js APIs.
@@ -64,30 +64,30 @@ Please read the [contribution guidelines](contributing.md) before contributing.
 - [knoopx/codemods](https://github.com/knoopx/codemods)
 - [autobots](https://github.com/geekjuice/autobots) - Codemods for great good!.
 - [ce-codemods](https://github.com/dogoku/ce-codemods) - Codemods for custom elements.
-- [bseber/codemods](codemods for jasmine refactoring) - Codemods for Jasmine refactoring.
+- [bseber/codemods](https://github.com/bseber/codemods) - Codemods for Jasmine refactoring.
 - [strudel-codemod](https://github.com/strudeljs/strudel-codemod) - Strudel codemod scripts.
 - [co-to-async](https://github.com/albinekb/co-to-async) - Take the step from co.wrap to async/await automagically.
 - [DrewML/codemods](https://github.com/DrewML/codemods) 
 - [skratchdot-codemods](https://github.com/skratchdot/skratchdot-codemods) - A collection of utility codemods.
 
 ## ESNext
-- [5to6](https://github.com/jamischarles/5to6) A collection of codemods that allow you to transform your js code from ES5 to ES6.
-- [async-await-codemod](https://github.com/vivek12345/async-await-codemod) Codemod to add try catch to all the async await statements.
-- [codemod-get-to-optional-member-expression](https://github.com/eschaefer/codemod-get-to-optional-member-expressions) Change Lodash `get` functions to ES7 optional member expressions.
-- [idx-to-optional-chaining](https://github.com/cdlewis/idx-to-optional-chaining) JSCodeShift codemod that transforms usage of idx to the draft optional chaining standard.
+- [5to6](https://github.com/jamischarles/5to6) - A collection of codemods that allow you to transform your js code from ES5 to ES6.
+- [async-await-codemod](https://github.com/vivek12345/async-await-codemod) - Codemod to add try catch to all the async await statements.
+- [codemod-get-to-optional-member-expression](https://github.com/eschaefer/codemod-get-to-optional-member-expressions) - Change Lodash `get` functions to ES7 optional member expressions.
+- [idx-to-optional-chaining](https://github.com/cdlewis/idx-to-optional-chaining) - JSCodeShift codemod that transforms usage of idx to the draft optional chaining standard.
 - [generator2async-codemod](https://github.com/shimohq/generator2async-codemod)
-- [lebab-as-babel-plugins](https://github.com/rajatvijay/lebab-as-babel-plugins) Codemod to transform ES5 code to ES6/7 and uses babel plugins.
+- [lebab-as-babel-plugins](https://github.com/rajatvijay/lebab-as-babel-plugins) - Codemod to transform ES5 code to ES6/7 and uses babel plugins.
 
 ## Typescript
-- [ts-codemod](https://github.com/tusharmath/ts-codemod) Typescript based codemods.
-- [tscodeshift](https://github.com/KnisterPeter/tscodeshift) tscodeshift is a toolkit for running codemods over multiple TS files.
-- [flowToTs](https://github.com/MarcoPolo/flowToTs) Flow to Typescript codemods.
-- [codemod-cli-ts](https://github.com/jmdejno/codemod-cli-ts) CLI for generating codemods written in Typescript.
-- [tsmod](https://github.com/WolkSoftware/tsmod) Refactor TypScript code programmatically using codemods.
-- [js-to-typescript-codemod](https://github.com/mattlewis92/js-to-typescript-codemod) A simple codemod for helping migrate from babel to typescript. Converts default imports to wildcards.
-- [riceburn](https://github.com/kenotron/riceburn) A Typescript, JSON, and text file Code Mod Utility.
-- [flowshift](https://github.com/albertywu/flowshift) flow to typescript codemods.
-- [ts-codemod-scripts](https://github.com/buildo/ts-codemod-scripts) collection of basic JS/React codemod scripts to prepare for TS on a codebase.
+- [ts-codemod](https://github.com/tusharmath/ts-codemod) - Typescript based codemods.
+- [tscodeshift](https://github.com/KnisterPeter/tscodeshift) - A tscodeshift is a toolkit for running codemods over multiple TS files.
+- [flowToTs](https://github.com/MarcoPolo/flowToTs) - Flow to Typescript codemods.
+- [codemod-cli-ts](https://github.com/jmdejno/codemod-cli-ts) - CLI for generating codemods written in Typescript.
+- [tsmod](https://github.com/WolkSoftware/tsmod) - Refactor TypScript code programmatically using codemods.
+- [js-to-typescript-codemod](https://github.com/mattlewis92/js-to-typescript-codemod) - A simple codemod for helping migrate from babel to typescript. Converts default imports to wildcards.
+- [riceburn](https://github.com/kenotron/riceburn) - A Typescript, JSON, and text file Code Mod Utility.
+- [flowshift](https://github.com/albertywu/flowshift) - Flow to typescript codemods.
+- [ts-codemod-scripts](https://github.com/buildo/ts-codemod-scripts) - Collection of basic JS/React codemod scripts to prepare for TS on a codebase.
 
 
 ## Frameworks
@@ -96,123 +96,121 @@ Please read the [contribution guidelines](contributing.md) before contributing.
 - [react-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts to update React APIs.
 - [preact-codemod](https://github.com/vutran/preact-codemod) - Transform your React code to Preact.
 - [rackt-codemod](https://github.com/reactjs/rackt-codemod) - Codemod scripts for Rackt libraries.
-- [ast-18n](https://github.com/sibelius/ast-i18n) Easily migrate your existing React codebase to use i18n.
+- [ast-18n](https://github.com/sibelius/ast-i18n) - Easily migrate your existing React codebase to use i18n.
 - [codemod-react-proptypes-to-flow](https://github.com/jamiebuilds/codemod-react-proptypes-to-flow)
-- [proptypes-to-flow](https://github.com/mikhail-hatsilau/proptypes-to-flow-codemod) Codemod to tranform react proptypes to flow.
+- [proptypes-to-flow](https://github.com/mikhail-hatsilau/proptypes-to-flow-codemod) - Codemod to tranform react proptypes to flow.
 - [react-hot-loader-codemod](https://github.com/sibelius/react-hot-loader-codemod) 
-- [mst-codemod-to-0.10](https://github.com/mobxjs/mst-codemod-to-0.10) A codemod to migrate to MobX-State-Tree 0.10 from previous versions.
-- [babel-plugin-codemod-react-css-modules](https://github.com/Craga89/babel-plugin-codemod-react-css-modules) Converts React components using imported CSS stylesheets to equivalent CSS Modules syntax.
-- [metal-to-react](https://github.com/bryceosterhaus/metal-to-react) Codemods for migrating metal-jsx to react.
-- [rn-update-deprecated-modules](https://github.com/lucasbento/rn-update-deprecated-modules) Codemod to update import declarations as per react-native > 0.59.x deprecations.
-- [babel-plugin-hyperscript-to-jsx](https://github.com/RIP21/babel-plugin-hyperscript-to-jsx) This plugin transforms react-hyperscript into JSX. Intended to be used as codemod.
-- [cjsx-codemod](https://github.com/jsdf/cjsx-codemod) A codemod for migrating off of coffee-react CJSX.
-- [over_react_codemod](https://github.com/Workiva/over_react_codemod) Codemods to help consumers of over_react automate the migration of UI component code.
-- [yannvr/codemods](https://github.com/yannvr/codemods) JS/React transforms because life is too short.
-- [js2tsx](https://github.com/sjy/js2tsx) A toolkit provide some codemod scripts based on jscodeshift to migrating react code base to typescript.
+- [mst-codemod-to-0.10](https://github.com/mobxjs/mst-codemod-to-0.10) - A codemod to migrate to MobX-State-Tree 0.10 from previous versions.
+- [babel-plugin-codemod-react-css-modules](https://github.com/Craga89/babel-plugin-codemod-react-css-modules) - Converts React components using imported CSS stylesheets to equivalent CSS Modules syntax.
+- [metal-to-react](https://github.com/bryceosterhaus/metal-to-react) - Codemods for migrating metal-jsx to react.
+- [rn-update-deprecated-modules](https://github.com/lucasbento/rn-update-deprecated-modules) - Codemod to update import declarations as per react-native > 0.59.x deprecations.
+- [babel-plugin-hyperscript-to-jsx](https://github.com/RIP21/babel-plugin-hyperscript-to-jsx) - This plugin transforms react-hyperscript into JSX. Intended to be used as codemod.
+- [cjsx-codemod](https://github.com/jsdf/cjsx-codemod) - A codemod for migrating off of coffee-react CJSX.
+- [over_react_codemod](https://github.com/Workiva/over_react_codemod) - Codemods to help consumers of over_react automate the migration of UI component code.
+- [yannvr/codemods](https://github.com/yannvr/codemods) - JS/React transforms because life is too short.
+- [js2tsx](https://github.com/sjy/js2tsx) - A toolkit provide some codemod scripts based on jscodeshift to migrating react code base to typescript.
 - [react-native-paper-codemod](https://github.com/callstack/react-native-paper-codemod)
-- [react-codemod-pure-component-to-class](https://github.com/orzarchi/react-codemod-pure-component-to-class) A react codemod to transform stateless/pure/functional components to class components.
-- [denvned/codemod](https://github.com/denvned/codemod) Relay Mutation - didResolveProps.
-- [mukeshsoni/codemods](https://github.com/mukeshsoni/codemods) Adds a data-test-id attribute to all jsx html elements.
-- [js-react-codemods](https://github.com/nicholas-b-carter/js-react-codemods) A boilerplate of JS 5/6/7 transforms for react/redux/js/etc.
-- [react-with-hooks-removal-codemod](https://github.com/polizz/react-with-hooks-removal-codemod) Remove the react-with-hooks library code when React 16.7.0 is released.
-- [react-native-fix-inline-styles](https://github.com/ignacioola/react-native-fix-inline-styles) Fix inline styles in react native components.
-- [react-style-px-suffix-codemod](https://github.com/conorhastings/react-style-px-suffix-codemod) append px to shorthand values in style objects in react in prep for react 15 warning.
+- [react-codemod-pure-component-to-class](https://github.com/orzarchi/react-codemod-pure-component-to-class) - A react codemod to transform stateless/pure/functional components to class components.
+- [denvned/codemod](https://github.com/denvned/codemod) - Relay Mutation - didResolveProps.
+- [mukeshsoni/codemods](https://github.com/mukeshsoni/codemods) - Adds a data-test-id attribute to all jsx html elements.
+- [js-react-codemods](https://github.com/nicholas-b-carter/js-react-codemods) - A boilerplate of JS 5/6/7 transforms for react/redux/js/etc.
+- [react-with-hooks-removal-codemod](https://github.com/polizz/react-with-hooks-removal-codemod) - Remove the react-with-hooks library code when React 16.7.0 is released.
+- [react-native-fix-inline-styles](https://github.com/ignacioola/react-native-fix-inline-styles) - Fix inline styles in react native components.
+- [react-style-px-suffix-codemod](https://github.com/conorhastings/react-style-px-suffix-codemod) - Append px to shorthand values in style objects in react in prep for react 15 warning.
 
 
 ### Ember.js
-- [ember-codemods](https://github.com/ember-codemods) Official organization for Ember.js Codemods.
-- [ember-watson](https://github.com/abuiles/ember-watson) An Ember.js codemod to make upgrades automatic. 
-- [test-selectors-codemod](https://github.com/lorcan/test-selectors-codemod) A codemode for fixing the ember-test-selectors testSelector helper deprecation.
-- [ember-i18n-to-intl-migrator](https://github.com/DockYard/ember-i18n-to-intl-migrator) Migrate ember-i18n to ember-intl .
-- [lil-codemods](https://github.com/jmdejno/lil-codemods) Ember codemods.
-- [jmdejno/ember-codemods](https://github.com/jmdejno/ember-codemods) Ember code Transforms.
-- [react-destructuring-assignment-codemod](https://github.com/thibaudcolas/react-destructuring-assignment-codemod) A WIP jscodeshift codemod to destructure assignments of props, state, and context.
-- [legacy-tests-codemod](https://github.com/patocallaghan/legacy-tests-codemod) A collection of codemod's for legacy-tests-codemod.
-- [ember-action-codemods](https://github.com/lennyburdette/ember-action-codemods) Codemods for converting uses of action to the {{on}} modifier.
-- [ember-k-codemod](https://github.com/cibernox/ember-k-codemod) Removes all usages of Ember.K.
-- [ember-computed-decorators-codemod](https://github.com/bwittenbrook3/ember-computed-decorators-codemod) Codemod to update ember-computed-decorators to ember-decorators.
+- [ember-codemods](https://github.com/ember-codemods) - Official organization for Ember.js Codemods.
+- [ember-watson](https://github.com/abuiles/ember-watson) - An Ember.js codemod to make upgrades automatic. 
+- [test-selectors-codemod](https://github.com/lorcan/test-selectors-codemod) - A codemode for fixing the ember-test-selectors testSelector helper deprecation.
+- [ember-i18n-to-intl-migrator](https://github.com/DockYard/ember-i18n-to-intl-migrator) - Migrate ember-i18n to ember-intl .
+- [lil-codemods](https://github.com/jmdejno/lil-codemods) - Ember codemods.
+- [jmdejno/ember-codemods](https://github.com/jmdejno/ember-codemods) - Ember code Transforms.
+- [react-destructuring-assignment-codemod](https://github.com/thibaudcolas/react-destructuring-assignment-codemod) - A WIP jscodeshift codemod to destructure assignments of props, state, and context.
+- [legacy-tests-codemod](https://github.com/patocallaghan/legacy-tests-codemod) - A collection of codemod's for legacy-tests-codemod.
+- [ember-action-codemods](https://github.com/lennyburdette/ember-action-codemods) - Codemods for converting uses of action to the {{on}} modifier.
+- [ember-k-codemod](https://github.com/cibernox/ember-k-codemod) - Removes all usages of Ember.K.
+- [ember-computed-decorators-codemod](https://github.com/bwittenbrook3/ember-computed-decorators-codemod) - Codemod to update ember-computed-decorators to ember-decorators.
 - [ember-cli-mirage-faker-codemod](https://github.com/caseywatts/ember-cli-mirage-faker-codemod) 
-- [ember-component-jquery](https://github.com/patocallaghan/ember-component-jquery) A codemod for migrating Ember Component code from `this.$()` to `$(this.element)`.
+- [ember-component-jquery](https://github.com/patocallaghan/ember-component-jquery) - A codemod for migrating Ember Component code from `this.$()` to `$(this.element)`.
 
 ### Preact.js
-- [preact-codemod](https://github.com/vutran/preact-codemod) 🍧 Shave some bytes by using Preact.
+- [preact-codemod](https://github.com/vutran/preact-codemod) - Shave some bytes by using Preact.
 
 ### Vue.js
-- [vue-codemods](https://github.com/SergioCrisostomo/vue-codemods) Collection of codemod scripts that help update and refactor Vue and JavaScript files.
+- [vue-codemods](https://github.com/SergioCrisostomo/vue-codemods) - Collection of codemod scripts that help update and refactor Vue and JavaScript files.
 
 ### Angular.js
-- [angular-codemods](https://github.com/arthurflachs/angular-codemods) Codemods for refactoring legacy angular applications.
+- [angular-codemods](https://github.com/arthurflachs/angular-codemods) - Codemods for refactoring legacy angular applications.
 
 ## Libraries
 
 ### Lodash
-- [lodash-codemods](https://github.com/jfmengels/lodash-codemods) Codemods to simplify upgrading Lodash versions.
-- [lodash-to-lodash-amd-codemods](https://github.com/OliverJAsh/lodash-to-lodash-amd-codemods) - lodash to [lodash-amd](https://github.com/lodash/lodash-amd) codemods.
-- [optional-chaining-codemod](https://github.com/villesau/optional-chaining-codemod) Codemod to migrate from Lodash get and logical and expressions to optional chaining 
-- [js-transforms](https://github.com/gunar/js-transforms) Codemod to replace lodash for lodash/fp.
-- [modular-lodash-codemod](https://github.com/dgrijuela/modular-lodash-codemod) Makes all your lodash imports modular.
-- [kevinbarabash/codemods](https://github.com/kevinbarabash/codemods) Lodash/Underscore to native.
+- [lodash-codemods](https://github.com/jfmengels/lodash-codemods) - Codemods to simplify upgrading Lodash versions.
+- [lodash-to-lodash-amd-codemods](https://github.com/OliverJAsh/lodash-to-lodash-amd-codemods) - Lodash to [lodash-amd](https://github.com/lodash/lodash-amd) codemods.
+- [optional-chaining-codemod](https://github.com/villesau/optional-chaining-codemod) - Codemod to migrate from Lodash get and logical and expressions to optional chaining.
+- [js-transforms](https://github.com/gunar/js-transforms) - Codemod to replace lodash for lodash/fp.
+- [modular-lodash-codemod](https://github.com/dgrijuela/modular-lodash-codemod) - Makes all your lodash imports modular.
+- [kevinbarabash/codemods](https://github.com/kevinbarabash/codemods) - Lodash/Underscore to native.
 
 ### Mocha
-- [mocha-to-jest-codemod](https://github.com/paularmstrong/mocha-to-jest-codemod) Convert Mochan TDD with Chai assert tests to Jest.
+- [mocha-to-jest-codemod](https://github.com/paularmstrong/mocha-to-jest-codemod) - Convert Mochan TDD with Chai assert tests to Jest.
 - [mocha2ava-codemod](https://github.com/shimohq/mocha2ava-codemod) - A tranformer for migrating tests from Mocha to Ava.
 
 ### AVA
-- [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) codeshift wrapper to write smaller and better tests for your codemods using AVA.
+- [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Codeshift wrapper to write smaller and better tests for your codemods using AVA.
 
 ### Styled Components
-- [styled-components-codemods](https://github.com/styled-components/styled-components-codemods) Automatic codemods to upgrade your styled-components code to newer versions.
-- [styled-components-v3-to-v4-codemod](https://github.com/RIP21/styled-components-v3-to-v4-codemod) Codemod to migrate deprecated .extend API in favor of only styled functions.
+- [styled-components-codemods](https://github.com/styled-components/styled-components-codemods) - Automatic codemods to upgrade your styled-components code to newer versions.
+- [styled-components-v3-to-v4-codemod](https://github.com/RIP21/styled-components-v3-to-v4-codemod) - Codemod to migrate deprecated .extend API in favor of only styled functions.
 
 ## Organization specific Codemods
 This is the list of codemods used by a particular organization for their code transformations.
-- [@freshworks/ember-codemods](https://github.com/freshdesk/ember-freshdesk-codemods) A collection of codemods used in Freshworks.
-- [shopify-codemod](https://github.com/shopify-graveyard/shopify-codemod) A collection of Codemods written with JSCodeshift that will help update our old, crusty JavaScript to nice, clean JavaScript.
-- [uber-codemods](https://github.com/uber-web/uber-codemods) Because Code Changes and Evolves.
-- [artsy/codemods](https://github.com/artsy/codemods) Various codemods used around Artsy.
-- [tune-codemods](https://github.com/TUNE-Archive/tune-codemods) A collection of codemods we use at tune.
-- [yapp-codemods](https://github.com/yappbox/yapp-codemods) Yapp's codemods.
+- [@freshworks/ember-codemods](https://github.com/freshdesk/ember-freshdesk-codemods) - A collection of codemods used in Freshworks.
+- [shopify-codemod](https://github.com/shopify-graveyard/shopify-codemod) - A collection of Codemods written with JSCodeshift that will help update our old, crusty JavaScript to nice, clean JavaScript.
+- [uber-codemods](https://github.com/uber-web/uber-codemods) - Because Code Changes and Evolves.
+- [artsy/codemods](https://github.com/artsy/codemods) - Various codemods used around Artsy.
+- [tune-codemods](https://github.com/TUNE-Archive/tune-codemods) - A collection of codemods we use at tune.
+- [yapp-codemods](https://github.com/yappbox/yapp-codemods) - Yapp's codemods.
 - [civicsource/codemod](https://github.com/civicsource/codemod/) 
 
 ## Editor Plugins
-- [atom-codemod](https://github.com/rosswarren/atom-codemod) Atom plugin for running codemods.
-- [vscodemod](https://github.com/mikaelbr/vscodemod) VSCode extension for doing codemod on selected text.
-- [nmn/atom-codemod](https://github.com/nmn/atom-codemod) simple commands to apply specific Babel plugins/codemods on your code.
+- [atom-codemod](https://github.com/rosswarren/atom-codemod) - Atom plugin for running codemods.
+- [vscodemod](https://github.com/mikaelbr/vscodemod) - VSCode extension for doing codemod on selected text.
+- [nmn/atom-codemod](https://github.com/nmn/atom-codemod) - Simple commands to apply specific Babel plugins/codemods on your code.
 
 ## Misc
-- [antd-codemod](https://github.com/ant-design/antd-codemod) antd codemod scripts.
-- [flow-codemod](https://github.com/flowtype/flow-codemod) jscodeshift-powered mithril@0.2.x to mithril@1.x transformations .
+- [antd-codemod](https://github.com/ant-design/antd-codemod) - Antd codemod scripts.
+- [flow-codemod](https://github.com/flowtype/flow-codemod) - Jscodeshift-powered mithril@0.2.x to mithril@1.x transformations .
 - [mithril-codemods](https://github.com/MithrilJS/mithril-codemods)
-- [webpack-codemods](https://github.com/okonet/webpack-codemods) JS Codemod to automatically convert webpack config from v1 to v2.
-- [js-codemods](https://github.com/entria/js-codemods) Node.js/JavaScript codemods used at @entria.
-- [jasmine-to-chai-codemod](https://github.com/vansosnin/jasmine-to-chai-codemod) 🍵 Codemod for jscodeshift to migrate your tests from Jasmine to Chai syntax.
-- [closure-codemod](https://github.com/toshi-toma/closure-codemod) Closure codemod scripts.
-- [titanium-codemods](https://github.com/ewanharris/titanium-codemods) Codemod scripts for Titanium Applications.
-- [next-codemod](https://github.com/zeit/next-codemod) codemod transformations to help upgrade Next.js codebases.
-- [date-fns-upgrade-codemod](https://github.com/date-fns/date-fns-upgrade-codemod) Code mods for upgrading date-fns versions.
-- [graphql2ts](https://github.com/sibelius/graphql2ts) Transform .graphql to graphql-js typescript.
-- [gen-codemod](https://github.com/noahsug/gen-codemod) Generate codemods by specifying your starting -> desired JavaScript.
-- [ruby_crystal_codemod](https://github.com/DocSpring/ruby_crystal_codemod) A codemod / transpiler that can help you convert Ruby into Crystal.
-- [babel-plugin-localize](https://github.com/amerani/babel-plugin-localize) codemod to localize static strings.
-- [generator-codemod](https://github.com/jamestalmage/generator-codemod) A generator to create codemods quickly.
+- [webpack-codemods](https://github.com/okonet/webpack-codemods) - JS Codemod to automatically convert webpack config from v1 to v2.
+- [js-codemods](https://github.com/entria/js-codemods) - Node.js/JavaScript codemods used at @entria.
+- [jasmine-to-chai-codemod](https://github.com/vansosnin/jasmine-to-chai-codemod) - Codemod for jscodeshift to migrate your tests from Jasmine to Chai syntax.
+- [closure-codemod](https://github.com/toshi-toma/closure-codemod) - Closure codemod scripts.
+- [titanium-codemods](https://github.com/ewanharris/titanium-codemods) - Codemod scripts for Titanium Applications.
+- [next-codemod](https://github.com/zeit/next-codemod) - Codemod transformations to help upgrade Next.js codebases.
+- [date-fns-upgrade-codemod](https://github.com/date-fns/date-fns-upgrade-codemod) - Code mods for upgrading date-fns versions.
+- [graphql2ts](https://github.com/sibelius/graphql2ts) - Transform .graphql to graphql-js typescript.
+- [gen-codemod](https://github.com/noahsug/gen-codemod) - Generate codemods by specifying your starting -> desired JavaScript.
+- [ruby_crystal_codemod](https://github.com/DocSpring/ruby_crystal_codemod) - A codemod / transpiler that can help you convert Ruby into Crystal.
+- [babel-plugin-localize](https://github.com/amerani/babel-plugin-localize) - Codemod to localize static strings.
+- [generator-codemod](https://github.com/jamestalmage/generator-codemod) - A generator to create codemods quickly.
 - [codemodes-tycoon](https://github.com/myshov/codemodes-tycoon) 
-- [codemod-v4](https://github.com/ant-design/codemod-v4) codemod cli for antd v4 upgrade.
-- [pkg-upgrader](https://github.com/benmonro/pkg-upgrader) easily build codemod CLIs using jscodeshift. fork of lib-upgrader.
-- [can-migrate](https://github.com/canjs/can-migrate) CLI & codemod scripts for upgrading to CanJS 3, 4 and 5.
-- [create-codemod-app](https://github.com/dangreenisrael/create-codemod-app) Create Codemod App, a codemod generator and runner.
-- [babel-plugin-glamorous-to-emotion](https://github.com/TejasQ/babel-plugin-glamorous-to-emotion) A codemod to migrate existing React or Preact codebases from glamorous to emotion.
-- [rxdart_codemod](https://github.com/brianegan/rxdart_codemod) A collection of codemods to upgrade your RxDart code from one version to the next.
-- [viewtools/codemods](https://github.com/viewstools/codemods) Helpers to migrate your code to newer versions of Views Tools.
-- [PHP-Codeshift](https://github.com/Atanamo/PHP-Codeshift) A small PHP toolkit for running codemods (code transformations) over multiple PHP files.
-- [gnome-shell-extension-es6-class-codemod](https://github.com/zhanghai/gnome-shell-extension-es6-class-codemod) A jscodeshift transform that helps migrating GNOME Shell extensions to 3.32.
-- [direct-import-codemod](https://github.com/limpbrains/direct-import-codemod) Use direct imports to save JS bundle size.
-- [d3-upgrade-codemods](https://github.com/expobrain/d3-upgrade-codemods) Codemods to upgrade d3 from version 3.x.
-- [generator-jscodeshif](https://github.com/scalvert/generator-jscodeshift) A yeoman generator for a jscodeshift codemod.
-- [tds-codemod](https://github.com/telus/tds-codemod) TELUS Design System.
-- [gsa-codeshift](https://github.com/bjoernricks/gsa-codeshift) GSA codemod scripts.
-- [bottender-codemod](https://github.com/bottenderjs/bottender-codemod) Bottender codemod scripts.
-
-
+- [codemod-v4](https://github.com/ant-design/codemod-v4) - Codemod cli for antd v4 upgrade.
+- [pkg-upgrader](https://github.com/benmonro/pkg-upgrader) - Easily build codemod CLIs using jscodeshift. fork of lib-upgrader.
+- [can-migrate](https://github.com/canjs/can-migrate) - CLI & codemod scripts for upgrading to CanJS 3, 4 and 5.
+- [create-codemod-app](https://github.com/dangreenisrael/create-codemod-app) - Create Codemod App, a codemod generator and runner.
+- [babel-plugin-glamorous-to-emotion](https://github.com/TejasQ/babel-plugin-glamorous-to-emotion) - A codemod to migrate existing React or Preact codebases from glamorous to emotion.
+- [rxdart_codemod](https://github.com/brianegan/rxdart_codemod) - A collection of codemods to upgrade your RxDart code from one version to the next.
+- [viewtools/codemods](https://github.com/viewstools/codemods) - Helpers to migrate your code to newer versions of Views Tools.
+- [PHP-Codeshift](https://github.com/Atanamo/PHP-Codeshift) - A small PHP toolkit for running codemods (code transformations) over multiple PHP files.
+- [gnome-shell-extension-es6-class-codemod](https://github.com/zhanghai/gnome-shell-extension-es6-class-codemod) - A jscodeshift transform that helps migrating GNOME Shell extensions to 3.32.
+- [direct-import-codemod](https://github.com/limpbrains/direct-import-codemod) - Use direct imports to save JS bundle size.
+- [d3-upgrade-codemods](https://github.com/expobrain/d3-upgrade-codemods) - Codemods to upgrade d3 from version 3.x.
+- [generator-jscodeshif](https://github.com/scalvert/generator-jscodeshift) - A yeoman generator for a jscodeshift codemod.
+- [tds-codemod](https://github.com/telus/tds-codemod) - TELUS Design System.
+- [gsa-codeshift](https://github.com/bjoernricks/gsa-codeshift) - GSA codemod scripts.
+- [bottender-codemod](https://github.com/bottenderjs/bottender-codemod) - Bottender codemod scripts.
 
 ## Awesome Lists
 - [awesome-ast](https://github.com/cowchimp/awesome-ast)
