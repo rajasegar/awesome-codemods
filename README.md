@@ -2,7 +2,7 @@
 
 > A curated list of awesome codemod resources for various languages, libraries and frameworks
 
-Please read the [contribution guidelines](contributing.md) before contributing.
+Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 
 ## Contents
