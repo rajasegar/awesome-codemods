@@ -69,6 +69,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [co-to-async](https://github.com/albinekb/co-to-async) - Take the step from co.wrap to async/await automagically.
 - [DrewML/codemods](https://github.com/DrewML/codemods) 
 - [skratchdot-codemods](https://github.com/skratchdot/skratchdot-codemods) - A collection of utility codemods.
+- [aws-sdk-js-codemod](https://github.com/awslabs/aws-sdk-js-codemod) - Codemod scripts to update AWS SDK for JavaScript APIs.
 
 ## ESNext
 - [5to6](https://github.com/jamischarles/5to6) - A collection of codemods that allow you to transform your js code from ES5 to ES6.
