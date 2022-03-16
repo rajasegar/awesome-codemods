@@ -195,7 +195,7 @@ This is the list of codemods used by a particular organization for their code tr
 - [ruby_crystal_codemod](https://github.com/DocSpring/ruby_crystal_codemod) - A codemod / transpiler that can help you convert Ruby into Crystal.
 - [babel-plugin-localize](https://github.com/amerani/babel-plugin-localize) - Codemod to localize static strings.
 - [generator-codemod](https://github.com/jamestalmage/generator-codemod) - A generator to create codemods quickly.
-- [codemodes-tycoon](https://github.com/myshov/codemodes-tycoon) codemods from Tycoon 
+- [codemodes-tycoon](https://github.com/myshov/codemodes-tycoon) - Codemods from Tycoon.
 - [codemod-v4](https://github.com/ant-design/codemod-v4) - Codemod cli for antd v4 upgrade.
 - [pkg-upgrader](https://github.com/benmonro/pkg-upgrader) - Easily build codemod CLIs using jscodeshift. fork of lib-upgrader.
 - [can-migrate](https://github.com/canjs/can-migrate) - CLI & codemod scripts for upgrading to CanJS 3, 4 and 5.
