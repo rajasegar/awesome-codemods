@@ -95,7 +95,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ### React.js
 - [react-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts to update React APIs.
-- [preact-codemod](https://github.com/vutran/preact-codemod) - Transform your React code to Preact.
 - [rackt-codemod](https://github.com/reactjs/rackt-codemod) - Codemod scripts for Rackt libraries.
 - [ast-18n](https://github.com/sibelius/ast-i18n) - Easily migrate your existing React codebase to use i18n.
 - [codemod-react-proptypes-to-flow](https://github.com/jamiebuilds/codemod-react-proptypes-to-flow)
