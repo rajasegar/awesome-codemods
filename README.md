@@ -70,6 +70,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [DrewML/codemods](https://github.com/DrewML/codemods) 
 - [skratchdot-codemods](https://github.com/skratchdot/skratchdot-codemods) - A collection of utility codemods.
 - [aws-sdk-js-codemod](https://github.com/awslabs/aws-sdk-js-codemod) - Codemod scripts to update AWS SDK for JavaScript APIs.
+- [codeshift-community](https://github.com/CodeshiftCommunity/CodeshiftCommunity) - Community-owned global registry and documentation hub for codemods. Write & run codemodes, share them with your friends.
 
 ## ESNext
 - [5to6](https://github.com/jamischarles/5to6) - A collection of codemods that allow you to transform your js code from ES5 to ES6.
@@ -89,7 +90,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [riceburn](https://github.com/kenotron/riceburn) - A Typescript, JSON, and text file Code Mod Utility.
 - [flowshift](https://github.com/albertywu/flowshift) - Flow to typescript codemods.
 - [ts-codemod-scripts](https://github.com/buildo/ts-codemod-scripts) - Collection of basic JS/React codemod scripts to prepare for TS on a codebase.
-
+- [type-import-codemod](https://github.com/IanVS/type-import-codemod) – Combine type and value imports using Typescript 4.5 type modifier syntax.
 
 ## Frameworks
 
