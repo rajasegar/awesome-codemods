@@ -10,6 +10,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [JavaScript](#javascript)
 - [ESNext](#esnext)
 - [Typescript](#typescript)
+- [Ruby](#ruby)
 - [Frameworks](#frameworks)
 - [Libraries](#libraries)
 - [Organization specific Codemods](#organization-specific-codemods)
@@ -91,6 +92,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [flowshift](https://github.com/albertywu/flowshift) - Flow to typescript codemods.
 - [ts-codemod-scripts](https://github.com/buildo/ts-codemod-scripts) - Collection of basic JS/React codemod scripts to prepare for TS on a codebase.
 - [type-import-codemod](https://github.com/IanVS/type-import-codemod) – Combine type and value imports using Typescript 4.5 type modifier syntax.
+
+## Ruby
+- [Ruby AST Explorer](https://github.com/rajasegar/ruby-ast-explorer) - AST Explorer for Ruby
+- [codeshift](https://github.com/rajasegar/codeshift) - JSCodeshift equivalent for Ruby
+- [cybertron](https://github.com/rajasegar/cybertron) - Codemod CLI to bootstrap Ruby codemods (transforms)
+- [ruby_crystal_codemod](https://github.com/DocSpring/ruby_crystal_codemod) - A codemod / transpiler that can help you convert Ruby into Crystal.
 
 ## Frameworks
 
@@ -193,7 +200,6 @@ This is the list of codemods used by a particular organization for their code tr
 - [date-fns-upgrade-codemod](https://github.com/date-fns/date-fns-upgrade-codemod) - Code mods for upgrading date-fns versions.
 - [graphql2ts](https://github.com/sibelius/graphql2ts) - Transform .graphql to graphql-js typescript.
 - [gen-codemod](https://github.com/noahsug/gen-codemod) - Generate codemods by specifying your starting -> desired JavaScript.
-- [ruby_crystal_codemod](https://github.com/DocSpring/ruby_crystal_codemod) - A codemod / transpiler that can help you convert Ruby into Crystal.
 - [babel-plugin-localize](https://github.com/amerani/babel-plugin-localize) - Codemod to localize static strings.
 - [generator-codemod](https://github.com/jamestalmage/generator-codemod) - A generator to create codemods quickly.
 - [codemodes-tycoon](https://github.com/myshov/codemodes-tycoon) - Codemods from Tycoon.
