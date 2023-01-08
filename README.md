@@ -172,6 +172,14 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [styled-components-codemods](https://github.com/styled-components/styled-components-codemods) - Automatic codemods to upgrade your styled-components code to newer versions.
 - [styled-components-v3-to-v4-codemod](https://github.com/RIP21/styled-components-v3-to-v4-codemod) - Codemod to migrate deprecated .extend API in favor of only styled functions.
 
+### react-router
+- [react-router-v4-codemods](https://github.com/rajasegar/react-router-v4-codemods) - Codemods for migrating react-router from v3 to v4.
+- [react-router-v6-codemods](https://github.com/rajasegar/react-router-v6-codemods) - Codemods for migrating react-router from v5 to v6.
+- [@putout/plugin-react-router](https://github.com/coderaiser/putout/tree/master/packages/plugin-react-router) - Putout plugin adds ability to migrate to latest version of react router.
+
+### material-ui
+- [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
+
 ## Organization specific Codemods
 This is the list of codemods used by a particular organization for their code transformations.
 - [@freshworks/ember-codemods](https://github.com/freshdesk/ember-freshdesk-codemods) - A collection of codemods used in Freshworks.
