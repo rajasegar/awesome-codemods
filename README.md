@@ -180,6 +180,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 ### material-ui
 - [@mui/codemod](https://github.com/mui/material-ui/tree/master/packages/mui-codemod) - A collection of codemod scripts based for use with jscodeshift that help update MUI APIs.
 
+### ant-design
+- [codemod-v4](https://github.com/ant-design/codemod-v4) - Codemod cli for antd v4 upgrade.
+- [antd-codemod](https://github.com/ant-design/antd-codemod) - Antd codemod scripts.
+- [codemod-v5](https://github.com/ant-design/codemod-v5) - Codemod cli for antd v5 upgrade.
+
 ## Organization specific Codemods
 This is the list of codemods used by a particular organization for their code transformations.
 - [@freshworks/ember-codemods](https://github.com/freshdesk/ember-freshdesk-codemods) - A collection of codemods used in Freshworks.
@@ -189,6 +194,7 @@ This is the list of codemods used by a particular organization for their code tr
 - [tune-codemods](https://github.com/TUNE-Archive/tune-codemods) - A collection of codemods we use at tune.
 - [yapp-codemods](https://github.com/yappbox/yapp-codemods) - Yapp's codemods.
 - [civicsource/codemod](https://github.com/civicsource/codemod/) 
+- [salesforce/lwc-codemod](https://github.com/salesforce/lwc-codemod) - Codemods for Lightning Web Components.
 
 ## Editor Plugins
 - [atom-codemod](https://github.com/rosswarren/atom-codemod) - Atom plugin for running codemods.
@@ -196,7 +202,7 @@ This is the list of codemods used by a particular organization for their code tr
 - [nmn/atom-codemod](https://github.com/nmn/atom-codemod) - Simple commands to apply specific Babel plugins/codemods on your code.
 
 ## Misc
-- [antd-codemod](https://github.com/ant-design/antd-codemod) - Antd codemod scripts.
+- [ratchet](https://github.com/mskelton/ratchet) - Codemod to convert React PropTypes to TypeScript types.
 - [flow-codemod](https://github.com/flowtype/flow-codemod) - Jscodeshift-powered mithril@0.2.x to mithril@1.x transformations .
 - [mithril-codemods](https://github.com/MithrilJS/mithril-codemods)
 - [webpack-codemods](https://github.com/okonet/webpack-codemods) - JS Codemod to automatically convert webpack config from v1 to v2.
@@ -211,7 +217,6 @@ This is the list of codemods used by a particular organization for their code tr
 - [babel-plugin-localize](https://github.com/amerani/babel-plugin-localize) - Codemod to localize static strings.
 - [generator-codemod](https://github.com/jamestalmage/generator-codemod) - A generator to create codemods quickly.
 - [codemodes-tycoon](https://github.com/myshov/codemodes-tycoon) - Codemods from Tycoon.
-- [codemod-v4](https://github.com/ant-design/codemod-v4) - Codemod cli for antd v4 upgrade.
 - [pkg-upgrader](https://github.com/benmonro/pkg-upgrader) - Easily build codemod CLIs using jscodeshift. fork of lib-upgrader.
 - [can-migrate](https://github.com/canjs/can-migrate) - CLI & codemod scripts for upgrading to CanJS 3, 4 and 5.
 - [create-codemod-app](https://github.com/dangreenisrael/create-codemod-app) - Create Codemod App, a codemod generator and runner.
@@ -226,6 +231,11 @@ This is the list of codemods used by a particular organization for their code tr
 - [tds-codemod](https://github.com/telus/tds-codemod) - TELUS Design System.
 - [gsa-codeshift](https://github.com/bjoernricks/gsa-codeshift) - GSA codemod scripts.
 - [bottender-codemod](https://github.com/bottenderjs/bottender-codemod) - Bottender codemod scripts.
+- [mrm](https://github.com/sapegin/mrm) - Codemods for your project config files.
+- [webdriverio/codemod](https://github.com/webdriverio/codemod) - A codemod to transform Protractor into WebdriverIO tests.
+- [strapi/codemods](https://github.com/strapi/codemods) - CLI to help you migrate your Strapi applications & plugins from v3 to v4.
+
+
 
 ## Awesome Lists
 - [awesome-ast](https://github.com/cowchimp/awesome-ast)
