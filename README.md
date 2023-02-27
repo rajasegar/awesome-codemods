@@ -234,7 +234,7 @@ This is the list of codemods used by a particular organization for their code tr
 - [mrm](https://github.com/sapegin/mrm) - Codemods for your project config files.
 - [webdriverio/codemod](https://github.com/webdriverio/codemod) - A codemod to transform Protractor into WebdriverIO tests.
 - [strapi/codemods](https://github.com/strapi/codemods) - CLI to help you migrate your Strapi applications & plugins from v3 to v4.
-
+- [django-codemod](https://github.com/browniebroke/django-codemod) - A tool to automatically fix Django deprecations.
 
 
 ## Awesome Lists
