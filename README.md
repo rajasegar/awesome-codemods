@@ -164,6 +164,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 ### Mocha
 - [mocha-to-jest-codemod](https://github.com/paularmstrong/mocha-to-jest-codemod) - Convert Mochan TDD with Chai assert tests to Jest.
 - [mocha2ava-codemod](https://github.com/shimohq/mocha2ava-codemod) - A tranformer for migrating tests from Mocha to Ava.
+- [ts-codemods](https://github.com/labarilem/ts-codemods) - Transformers for migrating callback-based Mocha tests to async/await based tests.
 
 ### AVA
 - [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Codeshift wrapper to write smaller and better tests for your codemods using AVA.
