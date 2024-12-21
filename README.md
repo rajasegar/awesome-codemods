@@ -92,6 +92,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [flowshift](https://github.com/albertywu/flowshift) - Flow to typescript codemods.
 - [ts-codemod-scripts](https://github.com/buildo/ts-codemod-scripts) - Collection of basic JS/React codemod scripts to prepare for TS on a codebase.
 - [type-import-codemod](https://github.com/IanVS/type-import-codemod) - Combine type and value imports using Typescript 4.5 type modifier syntax.
+- [codemod-add-import-extensions](https://github.com/TrevorBurnham/codemod-add-import-extensions) - Add file extensions to imports to improve build performance and allow TypeScript code to be executed without compilation.
 
 ## Ruby
 - [Ruby AST Explorer](https://github.com/rajasegar/ruby-ast-explorer) - AST Explorer for Ruby.
