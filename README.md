@@ -11,6 +11,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [ESNext](#esnext)
 - [Typescript](#typescript)
 - [Ruby](#ruby)
+- [Python](#python)
 - [Frameworks](#frameworks)
 - [Libraries](#libraries)
 - [Organization specific Codemods](#organization-specific-codemods)
@@ -98,6 +99,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [codeshift](https://github.com/rajasegar/codeshift) - JSCodeshift equivalent for Ruby.
 - [cybertron](https://github.com/rajasegar/cybertron) - Codemod CLI to bootstrap Ruby codemods (transforms).
 - [ruby_crystal_codemod](https://github.com/DocSpring/ruby_crystal_codemod) - A codemod / transpiler that can help you convert Ruby into Crystal.
+
+## Python
+- [brownie-to-ape](https://github.com/PugarHuda/brownie-to-ape) - Migrates Ethereum smart-contract projects from the deprecated Brownie framework to ApeWorx Ape using 17 deterministic jssg / ast-grep transform passes; validated on 5 OSS projects (incl. Yearn Finance) with 0 false positives.
+- [django-codemod](https://github.com/browniebroke/django-codemod) - A tool to automatically fix Django deprecations.
+- [bowler](https://github.com/facebookincubator/Bowler) - Safe code refactoring for modern Python via fluent AST-based transformations.
+- [LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser library that preserves all formatting details, suitable for codemod authoring.
 
 ## Frameworks
 
