@@ -72,6 +72,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 - [skratchdot-codemods](https://github.com/skratchdot/skratchdot-codemods) - A collection of utility codemods.
 - [aws-sdk-js-codemod](https://github.com/awslabs/aws-sdk-js-codemod) - Codemod scripts to update AWS SDK for JavaScript APIs.
 - [codeshift-community](https://github.com/CodeshiftCommunity/CodeshiftCommunity) - Community-owned global registry and documentation hub for codemods. Write & run codemodes, share them with your friends.
+- [js-modularization-gold-standard](https://github.com/drrx-ai/JS-Modularization-Gold-Standard) - Extract CommonJS monoliths into modules with AST dependency analysis and shared-state wiring.
 
 ## ESNext
 - [5to6](https://github.com/jamischarles/5to6) - A collection of codemods that allow you to transform your js code from ES5 to ES6.
